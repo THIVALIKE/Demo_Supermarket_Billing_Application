@@ -1,0 +1,5 @@
+C:\Users\ELCOT\Desktop\Demo_Git\SMB\Demo_Supermarket_Billing_System\Demo_Supermarket_Billing_System\bin\Debug\Demo_Supermarket_Billing_System.dll
+C:\Users\ELCOT\Desktop\Demo_Git\SMB\Demo_Supermarket_Billing_System\Demo_Supermarket_Billing_System\bin\Debug\Demo_Supermarket_Billing_System.pdb
+C:\Users\ELCOT\Desktop\Demo_Git\SMB\Demo_Supermarket_Billing_System\Demo_Supermarket_Billing_System\obj\Debug\Demo_Supermarket_Billing_System.csprojResolveAssemblyReference.cache
+C:\Users\ELCOT\Desktop\Demo_Git\SMB\Demo_Supermarket_Billing_System\Demo_Supermarket_Billing_System\obj\Debug\Demo_Supermarket_Billing_System.dll
+C:\Users\ELCOT\Desktop\Demo_Git\SMB\Demo_Supermarket_Billing_System\Demo_Supermarket_Billing_System\obj\Debug\Demo_Supermarket_Billing_System.pdb
